@@ -44,17 +44,7 @@
   - HTML
   - CSS
   - JavaScript
-# CSPIT Institute - Task 3
 
-This repository contains files related to Task 3, which involves creating a JavaScript object for CSPIT Institute and retrieving various details.
-
-## Files
-
-1. `index.html`: This file contains the HTML structure and content for displaying the CSPIT Institute details and the CE department records.
-
-2. `styles.css`: This file contains the CSS styles for the HTML elements in `index.html`, providing the visual appearance of the page.
-
-3. `script.js`: This file contains the JavaScript code to create a CSPIT object with different departments and their details. It also defines the `getDetails()` function to retrieve the institute's information.
 # CSPIT Institute - Task 3
 
 This repository contains files related to Task 3, which involves creating a JavaScript object for CSPIT Institute and retrieving various details.
