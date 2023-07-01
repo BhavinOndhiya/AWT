@@ -44,4 +44,34 @@
   - HTML
   - CSS
   - JavaScript
+# CSPIT Institute - Task 3
+
+This repository contains files related to Task 3, which involves creating a JavaScript object for CSPIT Institute and retrieving various details.
+
+## Files
+
+1. `index.html`: This file contains the HTML structure and content for displaying the CSPIT Institute details and the CE department records.
+
+2. `styles.css`: This file contains the CSS styles for the HTML elements in `index.html`, providing the visual appearance of the page.
+
+3. `script.js`: This file contains the JavaScript code to create a CSPIT object with different departments and their details. It also defines the `getDetails()` function to retrieve the institute's information.
+# CSPIT Institute - Task 3
+
+This repository contains files related to Task 3, which involves creating a JavaScript object for CSPIT Institute and retrieving various details.
+
+## Files
+
+- `index.html`: Contains the HTML structure and content for displaying the CSPIT Institute details and the CE department records.
+- `styles.css`: Includes the CSS styles for the HTML elements in `index.html`, providing the visual appearance of the page.
+- `script.js`: Contains the JavaScript code to create a CSPIT object with different departments and their details. It also defines the `getDetails()` function to retrieve the institute's information.
+
+## Demo
+
+To see the demo of Task 3, follow these steps:
+
+1. Open the `demo.html` file in a web browser.
+2. The web page will display the CSPIT Institute details, including the list of departments, year of establishment, and location.
+3. Additionally, it will show the records of the CE department, including the total number of students and faculty.
+
+Make sure to keep all three files (`demo.html`, `demo.css`, and `demo.js`) in the same directory/folder to ensure proper functionality.
 
